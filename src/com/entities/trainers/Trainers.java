@@ -1,4 +1,4 @@
-package com.entities;
+package com.entities.trainers;
 
 public class Trainers {
 

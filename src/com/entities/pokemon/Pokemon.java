@@ -1,4 +1,4 @@
-package com.entities;
+package com.entities.pokemon;
 
 public class Pokemon {
 
