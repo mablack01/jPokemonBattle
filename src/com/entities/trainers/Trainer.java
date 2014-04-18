@@ -1,5 +1,5 @@
 package com.entities.trainers;
 
-public class Trainers {
+public class Trainer {
 
 }

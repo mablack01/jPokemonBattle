@@ -1,5 +1,5 @@
 package com.entities.pokemon;
 
-public class Moves {
+public class Type {
 
 }
